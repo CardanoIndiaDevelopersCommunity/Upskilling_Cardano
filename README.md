@@ -1,3 +1,4 @@
+Cardano India Developers Community.
 # Upskilling_Cardano
 WELCOME TO CARDANO INDIA DEVELOPERS COMMUNITY
 Cardano India Developers Community is a premier IT Development , Consulting and Training Company started by passionate individuals who have more than 5+ years of industry experience in the field of IT Service Management, Project Management and various other top notch high/end value added frameworks.
@@ -29,11 +30,4 @@ Linkedin: https://www.linkedin.com/in/cardano-india-developers-community-7648002
 Facebook: https://www.facebook.com/profile.php?id=100086149197444
 Twitter: https://twitter.com/CardanoIndia
 Instagram: https://www.instagram.com/indiacardano/
-
-Thanks You All.
-
-Best Regards,
-
-Cardano India Developers Community.
-
 https://www.cardanoindia.org/
