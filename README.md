@@ -26,10 +26,15 @@ https://www.youtube.com/@cardanoindia
 
 
 Discord: https://discord.gg/qg6BkWfz
+
 Linkedin: https://www.linkedin.com/in/cardano-india-developers-community-764800252
+
 Facebook: https://www.facebook.com/profile.php?id=100086149197444
+
 Twitter: https://twitter.com/CardanoIndia
+
 Instagram: https://www.instagram.com/indiacardano/
+
 https://www.cardanoindia.org/
 
 -------------------------------------------------------
