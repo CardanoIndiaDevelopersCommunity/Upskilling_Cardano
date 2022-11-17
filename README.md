@@ -21,8 +21,8 @@ A decentralized(Dapp), distributed app is an application that is not controlled 
 
 The difference between a DApp and a conventional app is that the conventional app is controlled by a single entity. A DApp has a blockchain as its backend.
 
-Upskill Program Youtube Channel Link:
-https://youtu.be/jdeoer_dXxo
+Upskill Program Youtube Handle:
+https://www.youtube.com/@cardanoindia
 
 
 Discord: https://discord.gg/qg6BkWfz
@@ -35,3 +35,5 @@ https://www.cardanoindia.org/
 -------------------------------------------------------
 Recordings
 -------------------------------------------------------
+
+Day 1 - https://www.youtube.com/watch?v=jdeoer_dXxo
