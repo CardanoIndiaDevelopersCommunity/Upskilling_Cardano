@@ -1,11 +1,12 @@
 # Cardano India Developers Community.
 # Upskilling_Cardano
 WELCOME TO CARDANO INDIA DEVELOPERS COMMUNITY
-Cardano India Developers Community is a premier IT Development , Consulting and Training Company started by passionate individuals who have more than 5+ years of industry experience in the field of IT Service Management, Project Management and various other top notch high/end value added frameworks.
+
+Cardano India Developers Community is a group of highly motivated, self driven, dynamic techno-enthusiasts having combined 45+ years of experience in development, designing and building enterprise application. With keen interest in Cardano Blockchain Devevelopment. They passionate about upskilling developers in Haskell, Plutus, Marlowe, Atala Prism and hence help in building Cardano based Web 3.0 DApps and DAOs.
 
 A blockchain is a distributed database of records linked together by a series of cryptographic proofs. The records are called blocks; the blockchain is a collection of blocks.
 
-Projects emerging today can be referred to as the third generation of blockchain technology. Cardano is a Web 3.0 network with a blockchain-powered ecosystem that allows users to interact without relying on centralized data repositories but completely decentralized and open source.
+Projects emerging today can be referred to as the third generation of blockchain technology. Cardano is Blockchain 3.0 network ecosystem that allows users to interact without relying on centralized data repositories but completely decentralized and open source.
 
 Non-fungible tokens (NFTs) are cryptographic assets on a blockchain with unique identification codes and metadata that distinguish them from each other. NFTs exist on a blockchain, which is a distributed public ledger that records transactions. 
 
