@@ -36,6 +36,7 @@ Twitter: https://twitter.com/CardanoIndia
 Instagram: https://www.instagram.com/indiacardano/
 
 Usefull links: https://github.com/CardanoIndiaDevelopersCommunity/Upskilling_Cardano/blob/main/Useful%20Links.docx
+
 https://www.cardanoindia.org/
 
 -------------------------------------------------------
