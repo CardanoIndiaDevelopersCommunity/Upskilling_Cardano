@@ -34,4 +34,6 @@ https://www.cardanoindia.org/
 Recordings
 -------------------------------------------------------
 
-Day 1 - https://www.youtube.com/watch?v=jdeoer_dXxo
+15/11/2022: Welcome Session - https://www.youtube.com/watch?v=jdeoer_dXxo
+19/11/2022: Introduction to haskell- https://youtu.be/FakyIxDTQGg
+19/11/2022: Haskell Installtion - https://www.youtube.com/watch?v=SO5EetU7swE
