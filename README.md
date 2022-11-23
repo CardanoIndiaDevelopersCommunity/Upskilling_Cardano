@@ -39,3 +39,7 @@ Recordings
 19/11/2022: Introduction to haskell- https://youtu.be/FakyIxDTQGg
 
 19/11/2022: Haskell Installtion - https://www.youtube.com/watch?v=SO5EetU7swE
+
+22/11/2022: Basics of Haskell Programming - https://youtu.be/PybiKZP_JUw
+
+22/11/2022: Function, Recursion in Haskell Programming - https://youtu.be/9bKII2jFYAU
